@@ -19,4 +19,4 @@ This also contains both the compiled class files and source code
 
 Please credit me if you use this code.
 
-[java]: https://www.java.com/en/download/manual.jsp
+[java]: https://www.java.com/en/download/manual.jsp "Java Download Page"
