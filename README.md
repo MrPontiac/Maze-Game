@@ -1,4 +1,4 @@
-# Maze-Test
+# Maze-Game
 This is just a small Maze Game made in Java with a seed system, a bad seed system (as in unsolveable mazes), and a (relatively dumb) AI
 * Main is the main runner class for the program
 * Create creates a 2d Char Array
