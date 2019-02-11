@@ -71,7 +71,7 @@ public class Main {
 		int d = scan.nextInt();
 		if (d == 0) {
 			System.out.println(
-					"Welcome to my maze game! You have to use WASD to go left, right, up, or down repectively. Your goal is to land an the \"p\". Then you win! Otherwise if the seed is bad, then type bad");
+					"Welcome to my maze game! You have to use WASD to go left, right, up, or down repectively. Your goal is to land an the \"p\". Then you win! \nOtherwise if the seed is bad, then type bad...");
 
 			// run main game loop and retrive moves
 			int count = game.main(Maze, c, r, seed1);
