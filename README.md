@@ -9,5 +9,5 @@ This is just a small Maze Game made in Java with a seed system, a bad seed syste
 * Find is a helper class meant to help find m and P
 * Print is another helper class meant to print the char array
 * Turn is the last of the helper methods that just implement going up, down, right, or left
-This also contains both the compiled class files and source code
-Please credit me if you use this code.
+<p>This also contains both the compiled class files and source code</p>
+<p>Please credit me if you use this code.</p>
