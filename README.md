@@ -15,6 +15,14 @@ To start using it just make sure you have [java] installed
 
 Then just do `java Main` and you'll be running it
 
+Sample output for AI: 
+
+![alt-text](https://github.com/MrPontiac/Maze-Game/blob/master/Output.png "Sample Output for AI")
+
+Sample output for Game:
+
+![alt-text](https://github.com/MrPontiac/Maze-Game/blob/master/Output%202.png "Sample Output for Game")
+
 This also contains both the compiled class files and source code
 
 Please credit me if you use this code.
