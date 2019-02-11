@@ -3,7 +3,7 @@ This is just a small Maze Game made in Java with a seed system, a bad seed syste
 * Main is the main runner class for the program
 * Create creates a 2d Char Array
 * Seed adds m and P
-* Game is the class containing the code for the main game it returns the number of moves you took
+* Game is the class containing the code for the main game; it returns the number of moves you took
 * AI is the class containing the dumb ai
 * Auto is a file used to find bad seeds
 * Find is a helper class meant to help find m and P
