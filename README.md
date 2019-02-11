@@ -9,7 +9,7 @@ This is just a small Maze Game made in Java with a seed system, a bad seed syste
 * Find is a helper class meant to help find m and P
 * Print is another helper class meant to print the char array
 * Turn is the last of the helper methods that just implement going up, down, right, or left
-* Run.sh is a utility program to run `java Auto 10 10` 100 times
+* Run.sh is a utility program to run `java Auto 10 10` 100 times; however if you plan on running it, do `chmod +x Run.sh` first
 
 To start using it just make sure you have [java] installed
 
